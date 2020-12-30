@@ -32,7 +32,7 @@
 
 ## Tutorial
 
-See the [**Tutorial**](tutorials/tutorial-1.ipynb) to have an idea of the potential of this package:
+See the [**Tutorial**](tutorial-1.ipynb) to have an idea of the potential of this package:
 
 ### Offline training
 The training phase has been performed offline on 8 snapshots computed with **FEniCS**:
