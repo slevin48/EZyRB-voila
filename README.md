@@ -50,7 +50,9 @@ Once the Reduced Order Model is trained, it can be evaluated on new values of th
 ## Deployment on Heroku
 
 Based on the following tutorial, this notebook can be deployed as a Voila app on heroku:
-https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
+[https://ezyrb.herokuapp.com/](https://ezyrb.herokuapp.com/)
+
+**source**: [deploy-jupyter-notebook-voila-heroku](https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html)
 
 
 ## Dependencies and installation
